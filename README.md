@@ -2,9 +2,9 @@
 In this repository, you can find Excel projects done for AtliQ Hardwares, to support the client with their Sales and Finance Analytics.
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/saumya1904/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/saumya1904/Excel-Sales_Analysis/blob/main/CustomerPerformanceReport.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/saumya1904/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/saumya1904/Excel-Sales_Analysis/blob/main/MarketPerformance-Target.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
