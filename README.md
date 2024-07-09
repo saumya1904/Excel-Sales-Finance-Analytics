@@ -1,5 +1,5 @@
 # Excel-Sales-Finance-Analytics
-In this repository, you can find Excel projects done for AtliQ Hardwares, to support the client with their Sales and Finance Analytics.AtliQ Hardware, a leading company in hardware sales. AtliQ Hardware sells a variety of products such as PCs, mice, printers, and other peripherals to customers globally, both through brick-and-mortar stores and e-commerce platforms. The company also operates its own stores and works with distributors in countries like China and South Korea.
+In this repository, you can find Excel projects done for AtliQ Hardwares, to support the client with their Sales and Finance Analytics. AtliQ Hardware is a leading company in hardware sales. AtliQ Hardware sells a variety of products such as PCs, mice, printers, and other peripherals to customers globally, both through brick-and-mortar stores and e-commerce platforms. The company also operates its own stores and works with distributors in countries like China and South Korea.
 
 ## Technical Skills used:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
@@ -17,10 +17,10 @@ In this repository, you can find Excel projects done for AtliQ Hardwares, to sup
   
   **_[Sales Objectives]:** 
 
-    **a.** Create a _[customer performance report](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/CustomerPerformanceReport.pdf)_ 
+    -**a.** Create a _[customer performance report](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/CustomerPerformanceReport.pdf)_ 
 
-    **b.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/MarketPerformance-Target.pdf)_
-    **c.** Develop a _[Sales Report] for AtliQ Hardware.
+    -**b.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/MarketPerformance-Target.pdf)_
+    -**c.** Develop a _[Sales Report] for AtliQ Hardware.
 
      -**a.** _(https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/CustomerPerformanceReport.pdf)_:
      	-This report offers a detailed breakdown of yearly net sales from 2019 to 2021, highlighting percentage growth from 2020 to 2021. It serves as a key indicator for evaluating sales trends and patterns annually.
