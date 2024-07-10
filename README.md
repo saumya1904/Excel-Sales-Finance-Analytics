@@ -15,63 +15,49 @@ In this repository, you can find Excel projects done for AtliQ Hardwares, to sup
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
 
-***Sales Objectives:***
+***Sales Objectives:*** <br />
+**a.** Create a *Customer Performance Report* <br />
+**b.** Conduct a comprehensive comparison between *Market Performance v/s Sales Targets* <br />
+**c.** Develop a *Sales Report* for AtliQ Hardware. <br />
 
-**a.** Create a _[customer performance report](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/CustomerPerformanceReport.pdf)_ 
-
-**b.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/MarketPerformance-Target.pdf)_
-
-**c.** Develop a *Sales Report* for AtliQ Hardware.
-
-**a. _(https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/CustomerPerformanceReport.pdf)_:**
-This report offers a detailed breakdown of yearly net sales from 2019 to 2021, highlighting percentage growth from 2020 to 2021. It serves as a key indicator for evaluating sales trends and patterns annually.
-
-*Insights from Report:*
+**a.** _[Customer Performance Report](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/CustomerPerformanceReport.pdf)_ :
+This report offers a detailed breakdown of yearly net sales from 2019 to 2021, highlighting percentage growth from 2020 to 2021. It serves as a key indicator for evaluating sales trends and patterns annually. <br />
+*Insights from Report:* <br />
 Amazon, AtliQ e-store, and AtliQ Exclusive are the three customers with the highest net sales over three consecutive years. However, in terms of percentage growth, Integration Stores and Chiptec have performed better.
 
-**b.  _(https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/MarketPerformance-Target.pdf)_:**
-This report evaluates sales performance across different countries, comparing 2021 sales targets with actual net sales. It highlights success in meeting global sales objectives and identifies areas where targets were not achieved due to aggressive goals.
-
-*Insights from Report:*
+**b.**  _[Market Performance v/s Sales Targets](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/MarketPerformance-Target.pdf)_ :
+This report evaluates sales performance across different countries, comparing 2021 sales targets with actual net sales. It highlights success in meeting global sales objectives and identifies areas where targets were not achieved due to aggressive goals. <br />
+*Insights from Report:*<br />
 This report indicates that India lags in absolute value, while Poland leads in percentage growth. Most countries are missing their targets, which is expected given the aggressive nature of these goals.
 
 
 **c. Sales Report:**
 The AtliQ Hardware Customer Net Sales Report for the years 2019, 2020, and 2021 provides a comprehensive overview of the company's financial performance. This report is essential for retailers, consumers, and stakeholders interested in understanding sales trends and growth over the three-year period.
 
-*Sales Report* for AtliQ Hardware includes:
-
-**Top 10 Products by Net Sales:**
-Focuses on the top-performing products, showing significant revenue growth and percentage increases from 2020 to 2021. Notably, the product AQ Elite experienced exceptional revenue growth during this period.
-
-**Net Sales by Division:**
-This report examines the divisional net sales values for 2020 and 2021, along with the percentage growth in net sales during this period. All divisions experienced significant growth, showing remarkable increases over the specified years.
-
-**Top 5 Products and Below-Top 5 Products:**
-Based on quantity sold, lists the top 5 and below-top 5 products across all markets, regions, and divisions.
-
-**New Products in 2021:** 
-Provides an overview of new products introduced in 2021 and their sales performance.
-
-**Top 5 Countries by Net Sales in 2021(https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/Top5CountriesNetSales.pdf)_:**
+*Sales Report* for AtliQ Hardware includes: <br />
+_[Top 10 Products by Net Sales](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/Top10Products.pdf)_ :
+Focuses on the top-performing products, showing significant revenue growth and percentage increases from 2020 to 2021. Notably, the product AQ Elite experienced exceptional revenue growth during this period.<br />
+_[Net Sales by Division](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/NetSalesbyDivision.pdf)_ :
+This report examines the divisional net sales values for 2020 and 2021, along with the percentage growth in net sales during this period. All divisions experienced significant growth, showing remarkable increases over the specified years. <br />
+_[Top 5 Products and Below-Top 5 Products](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/Top5Products&BelowTop-5Products.pdf)_ :
+Based on quantity sold, lists the top 5 and below-top 5 products across all markets, regions, and divisions. <br />
+_[New Products in 2021](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/NewProductsIn2021.pdf)_ :
+Provides an overview of new products introduced in 2021 and their sales performance. <br />
+_[Top 5 Countries by Net Sales in 2021](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/Top5CountriesByNetSalesIn2021.pdf)_ :
 Highlights the top 5 countries based on net sales in 2021, with India leading the list.
 
 
+***Finance objective:*** <br />
+**a.**	Create *Profit and Loss (P&L) Reports by Fiscal Year (FY) and by Month.* <br />
+**b.**	Create *P&L for Markets.*
 
-
-***Finance objective:***
-
-**a.**	Create *Profit and Loss (P&L) Reports by Fiscal Year (FY) and by Month.*
-
-**b.**	Create *P&L Reports by Markets.*
-
-**a. P&L by Fiscal Year:_(https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/P&LStatementsByFiscalYear.pdf)**
+**a.** _[ P&L by Fiscal Year](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/P&LStatementsByFiscalYear.pdf)_ :
 This report provides key insights from Profit and Loss statements for fiscal years 2019, 2020, and 2021. It shows significant growth in net sales and cost of goods sold (COGS), resulting in an increase in gross margin (GM), although the gross margin percentage decreased slightly by 2.3% from 2020 to 2021. The report highlights the highest GM% in 2019 despite lower sales compared to 2021.
 
-**P&L by Month and Quarter:_(https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/P&LStatementsByFiscalYearMonths.pdf)**
+_[ P&L by Month and Quarter](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/P&LStatementsByFiscalYearMonths.pdf)_ :
 This report analyzes revenue trends on a monthly and quarterly basis for fiscal years 2019, 2020, and 2021. In November and December, net sales, COGS, and other metrics are higher because AtliQ's main customers are in India. These months coincide with festival seasons in India, including Diwali, Christmas, and New Year, leading to increased sales.
 
-**b. P&L for Markets:_(https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/P&LStatementsForMarkets.pdf)**
+**b.**_[ P&L for Markets](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/P&LStatementsforMarkets.pdf)_ :
 This report offers insights from profit and loss statements for various markets. While India shows a significant rise in gross margins, Japan, the Netherlands, France, and New Zealand lead in percentage growth.
 
 Please refer to the original report for detailed numerical data.
