@@ -43,7 +43,7 @@ _[Top 5 Products and Below-Top 5 Products](https://github.com/saumya1904/Excel-S
 Based on quantity sold, lists the top 5 and below-top 5 products across all markets, regions, and divisions. <br />
 _[New Products in 2021](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/NewProductsIn2021.pdf)_ :
 Provides an overview of new products introduced in 2021 and their sales performance. <br />
-_[Top 5 Countries by Net Sales in 2021](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/Top5CountriesNetSalesIn2021.pdf)_ :
+_[Top 5 Countries by Net Sales in 2021](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/Top5CountriesNetSales.pdf)_ :
 Highlights the top 5 countries based on net sales in 2021, with India leading the list.
 
 
@@ -51,7 +51,7 @@ Highlights the top 5 countries based on net sales in 2021, with India leading th
 **a.**	Create *Profit and Loss (P&L) Reports by Fiscal Year (FY) and by Month.* <br />
 **b.**	Create *P&L for Markets.*
 
-**a.** _[ P&L by Fiscal Year](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/P&LStatementsByFiscalYear.pdf)_ :
+**a.** _[ P&L by Fiscal Year](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/P&LStaementsByFiscalYear.pdf)_ :
 This report provides key insights from Profit and Loss statements for fiscal years 2019, 2020, and 2021. It shows significant growth in net sales and cost of goods sold (COGS), resulting in an increase in gross margin (GM), although the gross margin percentage decreased slightly by 2.3% from 2020 to 2021. The report highlights the highest GM% in 2019 despite lower sales compared to 2021.
 
 _[ P&L by Month and Quarter](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/P&LStatementsByFiscalYearMonths.pdf)_ :
