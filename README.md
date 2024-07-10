@@ -37,7 +37,7 @@ The AtliQ Hardware Customer Net Sales Report for the years 2019, 2020, and 2021 
 *Sales Report* for AtliQ Hardware includes: <br />
 _[Top 10 Products by Net Sales](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/Top10Products.pdf)_ :
 Focuses on the top-performing products, showing significant revenue growth and percentage increases from 2020 to 2021. Notably, the product AQ Elite experienced exceptional revenue growth during this period.<br />
-_[Net Sales by Division](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/NetSalesbyDivision.pdf)_ :
+_[Net Sales by Division](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/NetSalesbyDivison.pdf)_ :
 This report examines the divisional net sales values for 2020 and 2021, along with the percentage growth in net sales during this period. All divisions experienced significant growth, showing remarkable increases over the specified years. <br />
 _[Top 5 Products and Below-Top 5 Products](https://github.com/saumya1904/Excel-Sales-Finance-Analytics/blob/main/Top5Products&BelowTop-5Products.pdf)_ :
 Based on quantity sold, lists the top 5 and below-top 5 products across all markets, regions, and divisions. <br />
